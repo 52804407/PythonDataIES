@@ -1,11 +1,15 @@
 # Data Processing in Python (JEM207)
 
 The course site for the Data Processing in Python from [IES](http://ies.fsv.cuni.cz/). See information on [SIS](https://is.cuni.cz/studium/predmety/index.php?do=predmet&kod=JEM207). The course is taught by [Martin Hronec](mailto:martin.hronec@fsv.cuni.cz), [Jan Šíla](mailto:jan.sila@fsv.cuni.cz) and 
-[Alena Pavlovova](mailto:alena.pavlova@fsv.cuni.cz).
+[Alena Pavlova](mailto:alena.pavlova@fsv.cuni.cz).
 
 ## Communication
 Please direct all questions at [Alena Pavlova](mailto:alena.pavlova@fsv.cuni.cz) only. 
 
+### Midterm - Nov 21
+* Make sure you **committed** your code. Upload link to your solution [to the form here.](https://forms.gle/YngeLSeq8XM48P5z7)
+* You will find marks in SIS under your name, hopefully within a week. 
+<!--
 ## FAQ - pre semester
 
 * If you are on **waiting list** there is *nothing* we can do to enroll you. We managed to master somehow `python`, but SIS is something else. We follow the rules. Students usully drop from the course during the first week of the semester so **there is a good chance** you will be able to register.
@@ -15,9 +19,10 @@ Please direct all questions at [Alena Pavlova](mailto:alena.pavlova@fsv.cuni.cz)
 * If you are junior to last BSc year/ MSc level, please consider your coding skills. If you just started coding (R or anything else), please consider signing up later on. We will still be here (hopefully) next semester as well.
 * You are free to drop the course at any time until 08/10. If you decide to do so after this date, please get in touch with [Alena Pavlova](mailto:alena.pavlova@fsv.cuni.cz). However, please be aware that after 10/11, discontinuation will no longer be an option.
 * If you decide to *drop out after the 2-week grace period*, note that if you submit homework, you will be awarded "F" mark following the university guidelines. Please, do consider this as well with regards to staying in the course. There might be others waiting for the spot.
-
+-->
 ## Project - paring
-* If you are looking for a partner [use this google sheet](https://docs.google.com/spreadsheets/d/1edVcoztzwrkDS2uqdw_t45c4bt5AX_2IthaPTEG-D78/edit#gid=0) with your CUNI account logged in. If you have a partner, delete your info, please, to make it easier for others. 
+* If you are looking for a partner [use this google sheet](https://docs.google.com/spreadsheets/d/1edVcoztzwrkDS2uqdw_t45c4bt5AX_2IthaPTEG-D78/edit#gid=0) with your CUNI account logged in. If you have a partner, delete your info, please, to make it easier for others.
+
 
 # Schedule
 
@@ -40,7 +45,7 @@ Please direct all questions at [Alena Pavlova](mailto:alena.pavlova@fsv.cuni.cz)
 | 10   | 5.12.  | L   | How to code (avoiding spaghetti code)      | Martin              | Topic approved   |
 | 11   | 11.12. | S   | Seminar 5: Data science case-study         | Alena               |                  |
 | 11   | 12.12. | L   | Databases                                  | Jan                 |                  |
-| 12   | 19.12. | L   | Guest lecture (TBA) + Python Beer          | Alena, Jan & Martin |                  |
+| 12   | 19.12. | L   | Python profiling + Beer after lecture @ [Pivo klub](https://pivo-klub.cz/)        | [Miloš Kozák](https://www.linkedin.com/in/milo%C5%A1-koz%C3%A1k-1b837927/) |                  |
 | 2.1. | -      | -   | WiP: Project consultations                 | Alena, Jan & Martin |                  |
 | 9.1. | -      | -   | WiP: Project consultations                 | Alena, Jan & Martin |                  |
 
